@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 type: dataset
-message: "If you use this software, please cite it as below."
+message: "If you use the codes in this repository, please cite it as below."
 authors:
 - family-names: "Roychoudhury"
   given-names: "Kingkini"
