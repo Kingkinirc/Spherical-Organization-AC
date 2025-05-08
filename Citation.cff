@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+type: dataset
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Roychoudhury"
@@ -7,9 +8,3 @@ authors:
 title: "Entropic Organization of Topologically Modified Polymers under Spherical Confinement- Data"
 doi: "https://doi.org/10.48550/arXiv.2501.02276"
 url: "https://github.com/github-linguist/linguist"
-preferred-citation:
-  type: data
-  authors:
-  - family-names: "Roychoudhury"
-    given-names: "Kingkini"
-    orcid: "https://orcid.org/0009-0002-9394-4256"
